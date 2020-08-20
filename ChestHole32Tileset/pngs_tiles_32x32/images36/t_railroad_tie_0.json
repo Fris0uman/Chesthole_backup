@@ -1,0 +1,1 @@
+{"id": "t_railroad_tie", "fg": ["4102_t_railroad_tie_0", "4093_t_railroad_tie_1", "4102_t_railroad_tie_0", "4093_t_railroad_tie_1"], "bg": ["659_t_gates_control_metal_lab_1"], "rotates": true, "multitile": true, "additional_tiles": [{"id": "end_piece", "fg": ["4102_t_railroad_tie_0", "4093_t_railroad_tie_1", "4102_t_railroad_tie_0", "4093_t_railroad_tie_1"], "bg": []}]}

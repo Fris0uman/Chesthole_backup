@@ -1,0 +1,1 @@
+{"id": "vp_external_water_dirty_tank", "fg": ["2678_vp_external_tank_0"], "rotates": true, "multitile": true, "additional_tiles": [{"id": "broken", "fg": ["3062_vp_external_tank_1"], "bg": []}], "bg": []}

@@ -1,0 +1,1 @@
+{"id": "t_monkey_bars", "fg": ["2065_t_monkey_bars_0"], "bg": ["2038_t_grass_0"], "multitile": true, "additional_tiles": [{"id": "center", "fg": ["2066_t_monkey_bars_2"], "bg": ["2038_t_grass_0"]}, {"id": "corner", "fg": ["2067_t_monkey_bars_3"], "bg": ["2038_t_grass_0"]}, {"id": "t_connection", "fg": ["2071_t_monkey_bars_4"], "bg": ["2038_t_grass_0"]}]}

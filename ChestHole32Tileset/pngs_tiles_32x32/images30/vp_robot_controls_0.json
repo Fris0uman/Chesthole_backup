@@ -1,0 +1,1 @@
+{"id": "vp_robot_controls", "fg": ["2740_vp_robot_controls_0"], "bg": ["679_vp_robot_controls_1"], "rotates": true, "multitile": true, "additional_tiles": [{"id": "broken", "fg": ["3124_vp_robot_controls_2"], "bg": []}]}

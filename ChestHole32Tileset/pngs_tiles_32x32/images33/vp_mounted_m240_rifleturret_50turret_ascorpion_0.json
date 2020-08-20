@@ -1,0 +1,1 @@
+{"id": ["vp_mounted_m240", "rifleturret", "50turret", "ascorpion"], "fg": ["2733_vp_mounted_browning_0"], "rotates": true, "multitile": true, "additional_tiles": [{"id": "broken", "fg": ["3117_vp_mounted_browning_1"], "bg": []}], "bg": []}

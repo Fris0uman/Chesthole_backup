@@ -1,0 +1,1 @@
+{"id": "vp_hydrogen_tank", "fg": ["2725_vp_hydrogen_tank_0"], "rotates": true, "multitile": true, "additional_tiles": [{"id": "broken", "fg": ["3109_vp_hydrogen_tank_1"], "bg": []}], "bg": []}

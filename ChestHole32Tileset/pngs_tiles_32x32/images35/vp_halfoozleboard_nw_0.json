@@ -1,0 +1,1 @@
+{"id": "vp_halfoozleboard_nw", "fg": ["4545_vp_gloopleboard_nw_0"], "rotates": true, "multitile": true, "additional_tiles": [{"id": "broken", "fg": ["3090_vp_halfboard_nw_1"], "bg": ["4545_vp_gloopleboard_nw_0"]}], "bg": []}
