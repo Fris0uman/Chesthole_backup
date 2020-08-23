@@ -1,0 +1,1 @@
+{"id": "vp_horn_car", "fg": ["2724_vp_horn_bicycle_0"], "rotates": true, "multitile": true, "additional_tiles": [{"id": "broken", "fg": ["3108_vp_horn_bicycle_1"], "bg": []}], "bg": []}

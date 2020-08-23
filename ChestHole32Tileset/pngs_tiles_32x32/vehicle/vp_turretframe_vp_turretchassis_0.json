@@ -1,0 +1,1 @@
+{"id": ["vp_turretframe", "vp_turretchassis"], "fg": ["4582_vp_turretframe_0"], "bg": ["632_overlay_wielded_10mm_1"], "rotates": false, "multitile": true, "additional_tiles": [{"id": "broken", "fg": ["4678_vp_turretframe_2"], "bg": []}]}

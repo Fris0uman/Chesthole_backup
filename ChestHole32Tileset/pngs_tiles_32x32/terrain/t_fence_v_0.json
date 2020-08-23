@@ -1,0 +1,1 @@
+{"id": "t_fence_v", "fg": ["2017_t_fence_v_0"], "bg": ["640_f_canvas_wall_1"], "rotates": true, "multitile": true, "additional_tiles": [{"id": "end_piece", "fg": ["2017_t_fence_v_0"], "bg": ["640_f_canvas_wall_1"]}]}

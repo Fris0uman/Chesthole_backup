@@ -1,0 +1,1 @@
+{"id": ["vp_mounted_m1918", "vp_rifleturret", "vp_50turret", "vp_am249"], "fg": ["2733_vp_mounted_browning_0"], "rotates": true, "multitile": true, "additional_tiles": [{"id": "broken", "fg": ["3117_vp_mounted_browning_1"], "bg": []}], "bg": []}

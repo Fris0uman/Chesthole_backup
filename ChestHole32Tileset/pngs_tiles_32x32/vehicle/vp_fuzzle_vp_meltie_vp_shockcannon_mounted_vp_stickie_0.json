@@ -1,0 +1,1 @@
+{"id": ["vp_fuzzle", "vp_meltie", "vp_shockcannon_mounted", "vp_stickie"], "fg": ["4502_vp_fuzzle_0"], "bg": ["632_overlay_wielded_10mm_1"], "rotates": false, "multitile": true, "additional_tiles": [{"id": "broken", "fg": ["4504_vp_fuzzle_2"], "bg": []}]}
