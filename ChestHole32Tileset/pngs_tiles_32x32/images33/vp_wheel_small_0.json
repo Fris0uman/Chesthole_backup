@@ -1,1 +1,0 @@
-{"id": "vp_wheel_small", "fg": ["2639_overlay_wielded_wheel_small_0"], "rotates": true, "multitile": true, "additional_tiles": [{"id": "broken", "fg": ["3274_vp_wheel_unicycle_1"], "bg": []}], "bg": []}

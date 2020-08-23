@@ -1,1 +1,0 @@
-{"id": "t_brick_wall_halfway", "fg": ["2989_t_brick_wall_halfway_0", "2990_t_brick_wall_halfway_1", "2989_t_brick_wall_halfway_0", "2990_t_brick_wall_halfway_1"], "bg": ["632_overlay_wielded_10mm_1"], "rotates": true, "multitile": true, "additional_tiles": [{"id": "corner", "fg": ["2991_t_brick_wall_halfway_3"], "bg": []}]}

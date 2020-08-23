@@ -1,1 +1,0 @@
-{"id": "vp_oozledoor_opaque", "fg": ["4549_vp_gloopledoor_0"], "rotates": true, "multitile": true, "additional_tiles": [{"id": "broken", "fg": ["3987_mon_marloss_man_0"], "bg": ["4549_vp_gloopledoor_0"]}, {"id": "open", "fg": ["4550_vp_gloopledoor_2"], "bg": []}], "bg": []}

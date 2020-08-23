@@ -1,1 +1,0 @@
-{"id": "t_pavement", "fg": ["659_t_gates_control_metal_lab_1"], "bg": ["640_f_canvas_wall_1"], "rotates": false, "multitile": true, "additional_tiles": [{"id": "corner", "fg": ["4227_t_pavement_2", "4226_t_pavement_3", "4225_t_pavement_4", "4242_t_pavement_5"], "bg": []}]}

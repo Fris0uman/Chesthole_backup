@@ -1,1 +1,0 @@
-{"id": ["vp_gloople_plate", "vp_gray_plate", "vp_oozle_plate", "vp_rebar_plate", "vp_rebar_plate", "vp_spring_plate"], "fg": ["4448_vp_gloople_plate_0"], "bg": ["632_overlay_wielded_10mm_1"], "rotates": false, "multitile": true, "additional_tiles": [{"id": "broken", "fg": ["4448_vp_gloople_plate_0"], "bg": []}]}

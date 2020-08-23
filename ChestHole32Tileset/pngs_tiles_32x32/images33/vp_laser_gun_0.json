@@ -1,1 +1,0 @@
-{"id": "vp_laser_gun", "fg": ["2726_vp_lasgun_0"], "rotates": true, "multitile": true, "additional_tiles": [{"id": "broken", "fg": ["3110_vp_lasgun_2"], "bg": []}], "bg": []}
