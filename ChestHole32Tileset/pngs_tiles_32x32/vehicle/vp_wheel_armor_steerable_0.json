@@ -1,0 +1,1 @@
+{"id": "vp_wheel_armor_steerable", "fg": ["2635_overlay_wielded_wheel_armor_0"], "rotates": true, "multitile": true, "additional_tiles": [{"id": "broken", "fg": ["3270_vp_wheel_armor_1"], "bg": []}], "bg": []}

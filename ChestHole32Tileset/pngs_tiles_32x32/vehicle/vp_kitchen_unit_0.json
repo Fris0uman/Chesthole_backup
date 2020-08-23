@@ -1,0 +1,1 @@
+{"id": "vp_kitchen_unit", "fg": ["1267_overlay_wielded_kitchen_unit_0"], "bg": ["677_vp_cargo_space_1"], "rotates": false, "multitile": true, "additional_tiles": [{"id": "broken", "fg": ["3251_vp_kitchen_unit_2"], "bg": []}]}
